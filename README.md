@@ -1,8 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Derrick! :D</h1>
 
-- 🔭 I’m currently working on **Full-Stack Job Board Platform - Building a comprehensive job board with Vue.js 3 frontend and FastAPI backend. Features include real-time job chat bot with WebSocket integration, AI-powered resume review system, Firebase authentication with social login, mobile app development with Capacitor, and advanced UI components using Tailwind CSS with custom animations. Currently integrating the FastAPI backend with the existing Vue frontend and implementing cross-platform deployment.**
-
 - 🌱 I’m currently learning **Full-Stack Modern Web Development - Mastering Vue.js 3 with Composition API, Pinia state management, and advanced component patterns. Learning FastAPI with async Python, SQLAlchemy ORM, and PostgreSQL optimization. Exploring mobile development with Capacitor for cross-platform apps and modern deployment strategies with containerization and cloud services.**
 
 - 📫 How to reach me **lowderrickym@gmail.com**
