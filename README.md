@@ -15,7 +15,3 @@
       <img src="https://skillicons.dev/icons?i=aws,css,express,html,java,js,jest,kafka,mongodb,nodejs,postgres,python,react,redis,tailwind,ts,vue&perline=9" />
     </a>
   </p>
-
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derrikzzz&show_icons=true&locale=en&layout=compact" alt="derrikzzz" />
-  </p>
